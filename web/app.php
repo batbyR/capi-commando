@@ -1,5 +1,4 @@
 <?php
-echo '<img src="https://www.theodo.fr/hs-fs/hubfs/theodologo-ConvertImage.png?t=1535996147296&width=287&name=theodologo-ConvertImage.png" alt="Theodo.com"> ';
 /*
  * This file is part of the Symfony package.
  *
